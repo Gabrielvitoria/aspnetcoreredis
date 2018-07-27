@@ -1,0 +1,13 @@
+C:\Projetos\Prototipos\aspnetcoreredis\CacheRedis\bin\Debug\netcoreapp2.1\CacheRedis.deps.json
+C:\Projetos\Prototipos\aspnetcoreredis\CacheRedis\bin\Debug\netcoreapp2.1\CacheRedis.runtimeconfig.json
+C:\Projetos\Prototipos\aspnetcoreredis\CacheRedis\bin\Debug\netcoreapp2.1\CacheRedis.runtimeconfig.dev.json
+C:\Projetos\Prototipos\aspnetcoreredis\CacheRedis\bin\Debug\netcoreapp2.1\CacheRedis.dll
+C:\Projetos\Prototipos\aspnetcoreredis\CacheRedis\bin\Debug\netcoreapp2.1\CacheRedis.pdb
+C:\Projetos\Prototipos\aspnetcoreredis\CacheRedis\obj\Debug\netcoreapp2.1\CacheRedis.csproj.CoreCompileInputs.cache
+C:\Projetos\Prototipos\aspnetcoreredis\CacheRedis\obj\Debug\netcoreapp2.1\CacheRedis.RazorAssemblyInfo.cache
+C:\Projetos\Prototipos\aspnetcoreredis\CacheRedis\obj\Debug\netcoreapp2.1\CacheRedis.RazorAssemblyInfo.cs
+C:\Projetos\Prototipos\aspnetcoreredis\CacheRedis\obj\Debug\netcoreapp2.1\CacheRedis.AssemblyInfoInputs.cache
+C:\Projetos\Prototipos\aspnetcoreredis\CacheRedis\obj\Debug\netcoreapp2.1\CacheRedis.AssemblyInfo.cs
+C:\Projetos\Prototipos\aspnetcoreredis\CacheRedis\obj\Debug\netcoreapp2.1\CacheRedis.RazorTargetAssemblyInfo.cache
+C:\Projetos\Prototipos\aspnetcoreredis\CacheRedis\obj\Debug\netcoreapp2.1\CacheRedis.dll
+C:\Projetos\Prototipos\aspnetcoreredis\CacheRedis\obj\Debug\netcoreapp2.1\CacheRedis.pdb
